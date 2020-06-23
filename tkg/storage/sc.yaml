@@ -10,4 +10,4 @@ metadata:
 provisioner: csi.vsphere.vmware.com
 parameters:
     storagePolicyName: "vSAN Default Storage Policy" # our vSAN Storage policy from vCenter
-    datastoreurl: "ds:///vmfs/volumes/vsan:eb07701f2906468f-adf8503de341e053/" # the Datasture-URL of our WorkloadDatastore
+    datastoreurl: "ds:///vmfs/volumes/vsan:866caa9a34c74929-b4e71b4df27ac720/" # the Datasture-URL of our WorkloadDatastore
